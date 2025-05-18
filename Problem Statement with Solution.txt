@@ -1,0 +1,12 @@
+Problem :
+
+Small and marginal farmers in India continuously have difficulties in farming primarily due to limited exposure to localized agricultural information, 
+especially into the proper crop choice based on soil type and season. This limits their ability to make timely, and therefore good choices,inevitably 
+leading to poor crop choices, lower yields, economic lose/profit, and poor ecological practices. Additionally, the climate and soil conditions in 
+varied regions are notoriously variable as it always presents challenges for farmers to optimally decide which 
+crops will grow better in their fields in different seasons.
+
+
+Solution:
+
+This is a user-friendly site "Smart Agriculture - Viksit Bharat 2047", allows accessible personalized suggestions for a farmer’s crop based on their specific soil type and upcoming season. The farmers will select their soil status and seasonal period (Kharif, Rabi or Summer) to determine scientifically sound suggestions on what crops are best suited for the state of their soil. The solution promotes sustainable agricultural practices, improves a farmer's yield potential, mitigates relative economic risk and supports the vision of transforming agriculture for a developed India by the year 2047.  The site is well-designed and fairly intuitive web interface that it is accessible on mobile devices as well as desktops. The site empowers farmers to use timely information to make informed decisions for the well-being and wealth of “Viksit Bharat.”
